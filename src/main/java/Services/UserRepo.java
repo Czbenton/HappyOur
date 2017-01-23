@@ -1,6 +1,6 @@
 package Services;
 
-import com.zach.User;
+import com.zach.Entities.User;
 import org.springframework.data.repository.CrudRepository;
 
 /**

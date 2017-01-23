@@ -1,4 +1,4 @@
-package com.zach;
+package com.zach.Entities;
 
 import javax.persistence.*;
 
